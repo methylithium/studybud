@@ -11,7 +11,7 @@ This is a website for coders where they can create rooms to discuss about techno
 
 ## Live example
 
-![StudyBuddy Demo](https://methylithium.pythonanywhere.com/)
+[StudyBuddy Demo](https://methylithium.pythonanywhere.com/)
 
 ## Installation
 
